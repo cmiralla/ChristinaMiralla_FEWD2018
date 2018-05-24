@@ -1,0 +1,91 @@
+<!doctype html>
+
+<html>
+	<head>
+		<style>
+			a{
+				color:black;
+				font-size: 50px;
+				text-decoration:none;
+			}
+			nav ul li a{
+				text-transform:capitalize;
+				font-size:22px;
+
+			}
+			li{
+				display:inline-block;
+			}
+			h3{
+				text-transform:uppercase;
+				letter-spacing:22px;
+			}
+			body{
+				background:#ddd;
+				font-family:Helvetica,sans-serif;
+				padding:50px;
+			}
+			div{
+				margin:20px 0;
+				border-top:1px solid black;
+				border-bottom:1px solid black;
+			}
+		</style>
+	</head>
+	<body>
+		<nav>
+			<ul>
+				<li> <a href = "#" style="color:black;text-decoration:none;">
+					 About Me Page
+					</a>
+					</li>
+					|
+				<li> <a href = "#">
+					 Portfolio 
+					</a>
+				</li>
+			</ul>
+		</nav>
+		<h2>
+			Christina Miralla
+		</h2>
+		<div>
+			<img src="">
+			<h3>
+				I ENJOY LIFE AS A DEVELOPER
+			</h3>
+			<p>
+				I'm Joe Johnson, a Developer based in NYC. I Have ten years of experience in the graphic design world, specializing in the creation of responsive websites.
+			</p>
+		</div>
+
+		<h2> 
+			Experience
+		</h2>
+
+			<p>	
+				I recently graduated from a Front-End Web Development course at General Assembly where I learned HTML, CSS, JavaScript, jQuery and how to be an awesome Front-End Web Developer! During my spare time, I enjoy senior water aerobics, pickling, and spending time with my goldfish, Jerry.
+			</p>
+		
+		<h2>
+			Relevant Experience
+		</h2>
+		
+Web Developer, Relaxr 2015 - present
+Developed a multi-column layout blog, landing page, and contact forms that render on mobile devices.
+
+Web Developer, Startup Matchmaker 2015 - present
+Used a design team's wireframes to develop this company's responsive homepage.
+
+Web Developer, CitiPix 2015 – present
+Built web app prototype that allows users to store and quickly retrieve photos using keywords.
+
+
+EDUCATION
+
+General Assembly — FEWD 2015
+College of Soft Knocks — B.S. 2009
+School of Hard Knocks — 2005 (Honors)
+
+
+</table>

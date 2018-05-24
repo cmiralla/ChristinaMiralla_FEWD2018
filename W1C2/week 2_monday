@@ -1,0 +1,91 @@
+<!doctype html>
+
+<html>
+	<head>
+		<style>
+			a{
+				color:black;
+				font-size: 50px;
+				text-decoration:none;
+			}
+			nav ul li a{
+				text-transform:capitalize;
+				font-size:22px;
+			}
+			h3{
+				text-transform:uppercase;
+			}
+			body{
+				background:#ddd;
+				font-family:Helvetica,sans-serif;
+				padding:50px;
+			}
+			div{
+				margin:20px 0;
+				border-top:1px solid black;
+				border-bottom:1px solid black;
+			}
+		</style>
+	</head>
+	<body>
+		<nav>
+			<ul>
+				<li> <a href = "#" style="color:black;text-decoration:none;">
+					 About Me Page
+					</a>
+					</li>
+					|
+				<li> <a href = "#">
+					 Portfolio 
+					</a>
+				</li>
+			</ul>
+		</nav>
+		<h1>
+			Christina Miralla
+		</h1>
+		<div>
+			<img src="">
+			<h3>
+				I ENJOY LIFE AS A DEVELOPER
+			</h3>
+			<p>
+				I'm Joe Johnson, a Developer based in NYC. I Have ten years of experience in the graphic design world, specializing in the creation of responsive websites.
+			</p>
+		</div>
+
+		<h2> 
+			Experience
+		</h2>
+
+			<p>	
+				I recently graduated from a Front-End Web Development course at General Assembly where I learned HTML, CSS, JavaScript, jQuery and how to be an awesome Front-End Web Developer! During my spare time, I enjoy senior water aerobics, pickling, and spending time with my goldfish, Jerry.
+			</p>
+		
+		<h2>
+			Relevant Experience
+		</h2>
+			<ul type="disc">
+				<ul>
+					<li>
+					<h3>Web Developer</h3>, Relaxr 2015 - present
+					Developed a multi-column layout blog, landing page, and contact forms that render on mobile devices.
+					</li>
+					<li>
+					<h3>Web Developer</h3>, Startup Matchmaker 2015 - present
+					Used a design team's wireframes to develop this company's responsive homepage.
+					</li>
+					<li>
+					<h3>Web Developer</h3>, CitiPix 2015 – present
+					Built web app prototype that allows users to store and quickly retrieve photos using keywords.
+					</li>
+			</ul>	
+
+EDUCATION
+
+General Assembly — FEWD 2015
+College of Soft Knocks — B.S. 2009
+School of Hard Knocks — 2005 (Honors)
+
+
+</table>

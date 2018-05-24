@@ -1,0 +1,24 @@
+#header{
+    background-color: #000000;
+    background-image:url("C:/Users/mirallac/Documents/GitHub/FEWD2018/W4C7/startup_matchmaker_begin/startup_matchmaker/images/coworking.jpg");
+}
+#header h1{
+    padding:0px 0
+}
+#header h2{
+    margin:0;
+    padding:50px;
+}
+#header h3{
+    overflow:auto
+    color: black;
+    text-indent: right;
+  }
+div {
+  width: 200px;
+  height: 50px;
+  background-color: #eee;
+  overflow: auto;
+  text-indent: right;
+
+}

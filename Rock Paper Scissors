@@ -1,0 +1,49 @@
+define # of players: (player1, player2)
+define signs: (rock, paper, scissors)
+
+//first player makes first move
+var player1="paper"
+
+if player1 input=rock AND player2 input=scissors
+
+
+var player1 = prompt("Do you choose rock, paper or scissors?");
+var player2 = Math.random();
+if (player2 =rock{
+    computerChoice = "rock";
+}else if(computerChoice <=0.67){
+    computerChoice = "paper";
+}
+else{
+    computerChoice = "scissors";
+}
+var compare = function(choice1,choice2){
+    if(choice1===choice2){
+        return "The result is a tie!";
+    }
+    if(choice1==="rock"){
+        if(choice2==="scissors"){
+            return "rock wins";
+        }
+        else{
+            return "paper wins";
+        }
+    }
+    if(choice1==="paper"){
+        if(choice2==="rock"){
+            return "paper wins";
+        }
+        else{
+            return "scissors wins";
+        }
+    }
+    if(choice1==="scissors"){
+        if(choice2==="rock"){
+            return "rock wins";
+        }
+        else{
+            return "scissors wins";
+        }
+    }
+};
+compare(userChoice,computerChoice);
